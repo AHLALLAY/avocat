@@ -36,8 +36,8 @@
                         <a href="#about" class="block py-2 hover:text-opacity-80 transition-colors text-[#857D66]">À Propos</a>
                         <a href="#contact" class="block py-2 hover:text-opacity-80 transition-colors text-[#857D66]">Contact</a>
                         <div class="flex flex-col space-y-2 pt-4">
-                            <a href="/Commun/login.php" class="text-center py-2 rounded-lg transition-colors duration-300 bg-[#796644] text-[#1E1E18]">Connexion</a>
-                            <a href="/Commun/singin.php" class="text-center py-2 rounded-lg transition-colors duration-300 bg-[#857D66] text-[#1E1E18]">S'inscrire</a>
+                            <a href="/Commun/log.php" class="text-center py-2 rounded-lg transition-colors duration-300 bg-[#796644] text-[#1E1E18]">Connexion</a>
+                            <a href="/Commun/sing.php" class="text-center py-2 rounded-lg transition-colors duration-300 bg-[#857D66] text-[#1E1E18]">S'inscrire</a>
                         </div>
                     </div>
                 </div>
